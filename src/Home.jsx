@@ -244,7 +244,7 @@ const Home = () => {
                 <div className="flex-1">
                   <h3 className="text-3xl font-bold mb-4 text-white">Sobre Jesús Jaramillo</h3>
                   <p className="text-lg text-gray-200 leading-relaxed text-left">
-                    Jesús Jaramillo cuenta con mas de 10 años de experiencia en Proyectos, Mantenimiento y Confiabilidad, actualmente es líder en la integración de inteligencia artificial en MICHELIN con metodologías de mantenimiento de clase mundial. Con experiencia directa en la industria automotriz, Jesús ha desarrollado proyectos personalizados aplicando estrategias RAMS, RCM y análisis de fallas mediante herramientas como Python, Power BI y APIs de IBM Maximo. Su enfoque combina el análisis técnico profundo con el uso de tecnologías emergentes para mejorar la eficiencia, reducir costos y optimizar recursos en planta.
+                    Jesús Jaramillo cuenta con mas de 10 años de experiencia en Proyectos, Mantenimiento y Confiabilidad, actualmente es líder en la integración de inteligencia artificial en la industrria con metodologías de mantenimiento de clase mundial. Con experiencia directa en la industria automotriz, Jesús ha desarrollado proyectos personalizados aplicando estrategias RAMS, RCM y análisis de fallas mediante herramientas como Python, Power BI y APIs de IBM Maximo. Su enfoque combina el análisis técnico profundo con el uso de tecnologías emergentes para mejorar la eficiencia, reducir costos y optimizar recursos en planta.
                   </p>
                 </div>
               </div>
